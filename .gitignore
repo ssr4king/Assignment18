@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules/
+
+# Angular cache and build output
+.angular/
+dist/
+tmp/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvsca
+*.njsproj
+*.sln
+*.sw?
